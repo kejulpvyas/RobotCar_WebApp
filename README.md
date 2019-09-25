@@ -2,7 +2,7 @@
 
 A Web Application to feed live video streaming of a raspberry pi configured robot car. This was part of NSF’s EAGER project to evaluate the impact of Connected and Automated Vehicles (CAVs) on user’s safety and comfort.
 
-## Prerequisites:
+## Prerequisites
 
 IDE : python 3.7
 
@@ -12,8 +12,9 @@ Programming Language : python 3.7
 
 ## User Manual
 Please look at here for more information:
+[User_Manual.pdf](https://github.com/kejulpvyas/RobotCar_WebApp/files/3654860/User_Manual.pdf)
 
-
+## How to Run
 Here are the steps required to receive live streaming video from the camera mounted on the robot car and route it in the web application:
 
 •	Step 1: Run the client web application on the local host as per the instructions below. 
